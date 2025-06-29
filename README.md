@@ -16,6 +16,8 @@ As etapas do projeto incluíram:
 
 - Limpeza e otimização das bases de dados, com foco na redução do consumo de memória.
 
+- Cruzamento da base de dados do MEC com a base de dados de ingresso da UFABC.
+
 - Utilização do Google Colab para desenvolvimento e compartilhamento dos códigos:
 
   - 📄 <a href="https://colab.research.google.com/drive/1cjTc9GaF2C0RK8fmIkTbPXyR4nk1EXjh?usp=drive_link">Códigos do projeto (Colab)</a>
